@@ -1,0 +1,1 @@
+# python-analisis-ventas-sqlite
